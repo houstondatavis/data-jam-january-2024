@@ -1,0 +1,16 @@
+{
+  "name": "marathon-scrapers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrape:recent": "node scripts/scrape-recent.mjs",
+    "scrape:previous": "node scripts/scrape-previous.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "playwright": "^1.41.1"
+  }
+}
