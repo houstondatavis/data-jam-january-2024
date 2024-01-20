@@ -25,6 +25,7 @@ Some specific things I think could be fun:
 1. Find the courses geo data (geojson, shp or whatever format available) over time to visualize
 1. Subset in some way to scrape some results for point times from rtrt to do a timelapse visualization
 1. Augment with bike racers "Crash the Course" data
+1. Get data details for [legacy runners](http://www.houstonresults.com/legacyrunners)
 
 ## Would-be-nice
 
