@@ -1,6 +1,8 @@
 
 Data from Houston Marathon 2022-2024 results: [Timing Productions Site](https://www.timingproductions.com/results-site/houston)
 
+Quick node script to download results for all races and divisions from 2022 to 2024 as provided through [timingproductions.com/results-site/houston](https://www.timingproductions.com/results-site/houston).
+
 ## Summary of where to find Houston Marathon data
 
 1. 2022-2024 results: [Timing Productions Site](https://www.timingproductions.com/results-site/houston)
