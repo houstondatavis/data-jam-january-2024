@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "scrape:recent": "node scripts/scrape-recent.mjs",
-    "scrape:previous": "node scripts/scrape-previous.mjs"
+    "scrape:recent": "node scripts/recent.mjs",
+    "scrape:previous": "node scripts/previous.mjs"
   },
   "author": "",
   "license": "ISC",
