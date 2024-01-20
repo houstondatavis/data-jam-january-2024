@@ -1,9 +1,9 @@
 import { chromium } from 'playwright'
 import { createObjectCsvWriter } from 'csv-writer'
 
-import countries from '../data/countries.json' assert { type: "json" }
+import countries from '../countries.json' assert { type: "json" }
 
-const OUTPUT_PATH = `../data`
+const OUTPUT_PATH = `./data`
 
 const pagesCSVWriter = createObjectCsvWriter({
   path: `${OUTPUT_PATH}/pages.csv`,
