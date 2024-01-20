@@ -39,3 +39,13 @@ Some specific things I think could be fun:
 ## Other links
 
 Can also be accessed on [data.world](https://data.world/houstondatavis/houston-marathon-2022-2024)
+
+## How to run this scraper on your computer
+
+```js
+npm install
+npx playwright install
+npm run scrape:recent
+```
+
+Note that for now, the script will overwrite the existing data files in `./data/`.
